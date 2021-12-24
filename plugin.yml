@@ -1,0 +1,13 @@
+name: ColorChangerL
+author: lucas
+version: 1.0.0
+main: lucas\ColorChangerL\Main
+api: 4.0.0
+
+commands:
+  색변환:
+    description: 손에 들고 있는 블록의 색을 변환합니다.
+    permission: colorchanger.cmd
+permissions:
+  colorchanger.cmd:
+    default: true
