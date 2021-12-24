@@ -1,5 +1,5 @@
 # ColorChangerL
-[PocketMine-MP 4 Plugin] 서버에서 블록 색 변환을 구현해주는 플러그인
+[PocketMine-MP 4 Plugin] 서버에서 아이템 색 변환을 구현해주는 플러그인
 
 ## Command - 명령어
 + /색변환 - 색 변환 UI 를 오픈합니다.
